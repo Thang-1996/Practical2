@@ -1,0 +1,6 @@
+C:\Users\minht\source\repos\Thang-1996\Practical2\EmloyeePractical\bin\EmloyeePractical.dll.config
+C:\Users\minht\source\repos\Thang-1996\Practical2\EmloyeePractical\bin\EmloyeePractical.dll
+C:\Users\minht\source\repos\Thang-1996\Practical2\EmloyeePractical\bin\EmloyeePractical.pdb
+C:\Users\minht\source\repos\Thang-1996\Practical2\EmloyeePractical\obj\Debug\EmloyeePractical.csproj.CoreCompileInputs.cache
+C:\Users\minht\source\repos\Thang-1996\Practical2\EmloyeePractical\obj\Debug\EmloyeePractical.dll
+C:\Users\minht\source\repos\Thang-1996\Practical2\EmloyeePractical\obj\Debug\EmloyeePractical.pdb
